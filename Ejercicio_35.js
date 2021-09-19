@@ -1,0 +1,6 @@
+document.write("*")
+document.write("<br>**")
+document.write("<br>***")
+document.write("<br>****")
+document.write("<br>*****")
+document.write("<br>******")
